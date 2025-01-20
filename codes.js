@@ -2,7 +2,7 @@ const countryList = {
   AED: "AE",
   AFN: "AF",
   XCD: "AG",
-  AL: "AL",
+  A: "AL",
   AMD: "AM",
   ANG: "AN",
   AOA: "AO",
